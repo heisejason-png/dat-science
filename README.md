@@ -224,5 +224,5 @@ but science should be universal.
 ## Maintainers
 
 [@jbarnette](https://github.com/jbarnette) and [@rick](https://github.com/rick)
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
